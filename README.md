@@ -2,7 +2,7 @@
 
 The AtliQ Hospitality Revenue Analysis project aims to address the decline in market share and revenue faced by AtliQ Grands, a well-known hospitality company with multiple five-star hotels in India. A 3rd party service provider will be hired to provide insights from the company's historical data and to help regain market share and revenue.
 
-**Data Gathering:** The input data consists of 5 CSV files (dim_date, dim_hotels, dim_rooms, fact_aggregated_bookings, fact_bookings) and a meta information file (meta_data_hospitality.txt) containing information about the columns.
+**Data Gathering:** The input data consists of 5 CSV files (dim_date, dim_hotels, dim_rooms, fact_aggregated_bookings, fact_bookings).
 
 **Key Metrics:** The project will focus on analyzing the following key metrics: RevPar (Revenue per Available Room), Occupancy, DSRN (Daily Sellable Room Night), Revenue, ADR (Average Daily Rate), URN (Utilized Room Nights), and BRN (Booked Room Nights). These metrics will help the company understand its revenue realization percentage, identify any channel-level issues, and make informed decisions for future planning.
 
